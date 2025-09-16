@@ -6,11 +6,11 @@ RotaFeita é um app para planejamento eficiente de entregas — gera roteiros ot
 
 ## 👨‍💻 Tecnologias
 
-![Made with Go](https://img.shields.io/badge/backend-Golang-orange)
-![Made with Dart](https://img.shields.io/badge/frontend-Dart-orange)
-![Made with Flutter](https://img.shields.io/badge/frontend-Flutter-orange)
-![Made with SQLite3](https://img.shields.io/badge/database-SQLite3-orange)
-![Made with PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-orange)
+![Made with Go](https://img.shields.io/badge/backend-Golang-yellow)
+![Made with Dart](https://img.shields.io/badge/frontend-Dart-yellow)
+![Made with Flutter](https://img.shields.io/badge/frontend-Flutter-yellow)
+![Made with SQLite3](https://img.shields.io/badge/database-SQLite3-yellow)
+![Made with PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-yellow)
 
 - [GO](https://go.dev)
 - [Dart](https://dart.dev)
