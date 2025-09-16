@@ -4,7 +4,9 @@
 
 RotaFeita é um app para planejamento eficiente de entregas — gera roteiros otimizados, organiza pontos de parada, calcula tempo/distância, permite monitorar progresso, e ajuda quem faz entregas a economizar tempo e combustível.
 
-[<img height="50" alt="Google Play Store" src="https://github.com/pioug/google-play-badges/raw/main/svg/Portuguese-Brazil.svg"/>](https://play.google.com/store/apps/details?id=br.com.softyes.rotafeita)
+<a target="_blank" href="https://play.google.com/store/apps/details?id=br.com.softyes.rotafeita">
+  <img height="50" alt="Google Play Store" src="https://github.com/pioug/google-play-badges/raw/main/svg/Portuguese-Brazil.svg"/>
+</a>
 
 ## 👨‍💻 Tecnologias
 
